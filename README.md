@@ -22,7 +22,7 @@ _Create two deployment workflows using GitHub Actions and Microsoft Azure._
 
 </details>
 
-<details id=1 open>
+<details id=1>
 <summary><strong>:zap: Step 1: Trigger a job based on labels</strong></summary>
 
 ### Welcome to "GitHub Actions: Continuous Delivery with Azure"! :wave:
@@ -82,7 +82,7 @@ For now, we'll focus on staging. We'll spin up and destroy our environment in a 
 </details>
 
 
-<details id=2>
+<details id=2 open>
 <summary><strong>:wrench: Step 2: Set up the Azure environment</strong></summary>
 
 ### Nice work triggering a job on specific labels :sparkles:
